@@ -75,7 +75,7 @@ const UserDetails = () => {
                   {" "}
                   Post : {user.id} <br /> <br />{" "}
                 </Typography>
-                <small>User ID: {user.userid}</small> <br />
+                <br />
                 {user.body}
               </React.Fragment>
             }
